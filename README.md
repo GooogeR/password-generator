@@ -15,9 +15,10 @@
 
 ```bash
 go run main.go
+```
 
 Запуск с кастомными параметрами:
-
+```bash
 go run main.go -length=16 -digits=true -symbols=false -uppercase=true -lowercase=true
 ```
 
