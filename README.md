@@ -26,4 +26,6 @@ go run main.go -length=16 -digits=true -symbols=false -uppercase=true -lowercase
 - Go 1.18+
 
 # Сборка
+```bash
 go build -o password-generator
+```
