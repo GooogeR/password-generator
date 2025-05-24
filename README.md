@@ -19,9 +19,9 @@ go run main.go
 Запуск с кастомными параметрами:
 
 go run main.go -length=16 -digits=true -symbols=false -uppercase=true -lowercase=true
+```
 
 # Требования
-
 - Go 1.18+
 
 # Сборка
